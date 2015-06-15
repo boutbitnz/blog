@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://boutbitnz.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://boutbitnz.github.io/blog/"/>
+  <updated>2015-06-14T19:30:15-05:00</updated>
+  <id>http://boutbitnz.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Elizabeth Bell]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What a Relief]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2015/04/30/what-a-relief/"/>
+    <updated>2015-04-30T00:00:00-05:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2015/04/30/what-a-relief</id>
+    <content type="html"><![CDATA[<p>WEEK 27
+below more
+Well I can honestly say that these last couple of weeks has definitely been a challenge. for the month of May our class has been doing group projects. Eight other peer besides my self left in class, split into two groups.</p>
+
+<p>The projects started off fun and exciting then after two or so days into the project some of us started to doubt our abilities and lack the trust amongst peers needed in any group / team project or assignment. I for one can say that before even knowing who our groups were, I was very nervous and concerned about what I can and can’t do. I begin to doubt MY abilities. After receiving some good ole &lsquo;positive affirmation’. I was back in the race head up and chest out.</p>
+
+<p>Back to the project, so confidence and trust became an issue within the group. Guess what was so amazon about the whole ordeal? We all got to hear and get a better understanding of what one another truly felt about the project as well as what their goals were in completing the project. Receiving all that through a committed conflict resolution. In my opinion, anytime conflict resolsution is done so Eloquently, its a real good idea to show
+appreciation.</p>
+
+<p>Now we have things pretty much down pack, got our separate roles and working towards completing our missions.</p>
+
+<p>I will say that I am very proud of my group for being able to take all the information we’ve learned and put it into action. I am especially proud of myself for being able to have fun with my team and my progress thus far. It feel great.</p>
+
+<p>I am absolutely ready for the holiday. Happy Memorial’s Day All!</p>
+
+<p>Really, One more week?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Hands On]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2015/04/16/getting-hands-on/"/>
+    <updated>2015-04-16T00:00:00-05:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2015/04/16/getting-hands-on</id>
+    <content type="html"><![CDATA[<p>WEEK 25
+below more
+This week at the YWebCA, thing were wonderful. I can honestly say that so far this has to be one of my favorite weeks. I’ll tell you why..</p>
+
+<p>Working with this Eloquent Javascript material is challenging, it’s calculating, criticle at times because Im learning so much so fast that I wasn’t really sure of myself. Was uncertain about my capabilities and performance. I was concerned about forgetting the code or my abilities in using what I’ve learned in making things do what I wanted them to do..</p>
+
+<p>This week, I was able to overcome those obstacles in my thinking. This week not only did I really start to paste together an actual functioning web page, but I am almost complete with it. I am having so much fun building my page exactly the way I want it (structured wise) and styling my page that I framed out. Whats even more exciting is that i realized then that ‘I can do this, this is definitely the class for me.’ My true &lsquo;Awe Hah’ moment.</p>
+
+<p>The first thing I did when starting my project was created my directory, folder, and touch files that I would Use to store all my project material in. I did all that through the terminal. That was awesome to do on my own. once I completed that I went straight to work on everything else.</p>
+
+<p>I put that page together with no problems. First I build my html. In doing so I took my time in making sure that everything stayed organized and in order I also payed a lot of attention to my cascading so if i was to run into any problems it wouldn’t be hard to navigate through the page. After completing what I could there I started to dress her up with a little css, Which I also payed close attention to keeping organized and in a good readable order. Right now I am working on getting the page to function the way I want with the javascript and jQuery I’ve learned so far. So every things going pretty good right mow. I’m feeling quite confident at the moment.</p>
+
+<p>Another interesting thing I learned this week is
+&lsquo; Conway&rsquo;s Game of Life ’ and 'Cellular automaton’
+An initial state is selected by assigning a state for each cell. Thats crazy! Watching those cell interact is amazing and being able to control the flow (somewhat) makes it even more fun.</p>
+
+<p>I am totally looking forward this coming week. ready to broaden horizons.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Keeping It Moving]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2015/04/09/keeping-it-moving/"/>
+    <updated>2015-04-09T00:00:00-05:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2015/04/09/keeping-it-moving</id>
+    <content type="html"><![CDATA[<p>WEEK 23
+below more
+This week was pretty awesome, got done with the chapter two in the Eloquent book as well as the extra challenging exercises my two super smart teachers put together for the class. I was also able to complete the reading and started the chapter 3 exercises.. So it is so very nice to be back in the flow of things with this programing stuff… It seems I can’t get ahead for the life of me.! I was also able to make some major decisions with the course of the rest of the class time till graduation..That decision is a great opportunity for me to use time gained to better familiarize myself with the latest material talked about in class.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Real Feel, Gratitude]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2015/04/02/the-real-feel-gratitude/"/>
+    <updated>2015-04-02T00:00:00-05:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2015/04/02/the-real-feel-gratitude</id>
+    <content type="html"><![CDATA[<p>WEEK 23
+below more
+I am so loving Javascript, Jquery and functions. It amazes me how…. I can create a an operation called  a Function, store that function and use it when ever I want. I mean, whenever convenient with my code. That of course come in handy when running something often or running something repeatedly.
+Since we started working out of this new book Eloquent I’ve learned so much. My journey or experience with code school had absolutely nothing on this new book. I was completely illiterate to functions and already by the first two chapters I have an understanding I’m comfortable with for now being where we are in class or where I believe is expected. Of course, at all cost I&rsquo;d like to go above and beyond.</p>
+
+<p>I am so thankful for my two teachers, Nate and Annalise for helping me get everything together and get caught up on what I was behind on or missing. I also have a classmate, Yeng that helps me out a lot remotely. These three … Boy, boy, THANK YOU!</p>
+
+<p>I have to say, most of all, I have to give it to my husband and family that continues to support me endlessly throughout. My husband, Richard, it’s like ’ no holds bar ’ when it comes to me getting all I can out of this wonderful experience and graduating. So it feels good. I’m feeling wonderful about my career.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting It Together]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2015/03/26/getting-it-together/"/>
+    <updated>2015-03-26T00:00:00-05:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2015/03/26/getting-it-together</id>
+    <content type="html"><![CDATA[<p>WEEK 22
+below more
+This week I focused a lot on getting caught up. I missed a complete week of class this  past week and That did damage. So I figured I needed to build structure for myself so I started with the program Trello to organize a few things I knew needed token care of, prioritized them, and set out to accomplish them one by one. By the end of the week (today), Im proud of myself. Yes I’m satisfied, however, I don’t want to have to go through that again, especially when learning something new.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hustle and Flow]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2015/03/12/hustle-and-flow/"/>
+    <updated>2015-03-12T00:00:00-05:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2015/03/12/hustle-and-flow</id>
+    <content type="html"><![CDATA[<p>Week 20
+below more
+This was an awesome week for me in class. I was able to get caught up on a lot of work. First I started with this new management software that my teacher has now set the class up with called Trello. I love it! I&rsquo;m one of those people whom has to have structure, something standard right there in my face.&lsquo;signed, sealed, delivered.&rsquo;</p>
+
+<p>I thought having the oppertunity to be introduced to such a management system is a great for us to build skill on using that type of software since developing requires such attention, a management system is definitely needed.</p>
+
+<p>I was also able to get a couple of assignments completed that were missing. For the last couple of week, a lot has gone on in my everyday environment, work as well as moving issues. I choose to take a couple days off of class to handle some family business in another state and when I got back I had fallin from being ahead to behind. Just that fast. The next week after that, I took on three more children in my house hold. With that, I was behind on work and very emotional and frustrated. I was ready to give up on a lot of people and things, however, I was not going to give up on myself with this oppertunity to build something better for my family and, along with my Husband, build stability for our future.</p>
+
+<p>So I came back to class through the storm to tell you that, for the last 4-5 weeks, this last week was awesome because of realizations I&rsquo;ve faced. A good tool for me when things are all over, is that I can implement  wiht the problem with Critical Thinking.</p>
+
+<p>I could have done none of this without my helpful classmates and my two wonderful teacher at the YWebCA; Annalise + Nathan as well. The both of them made me feel very comfortable and like I belonged here in this IT class developing I love YWebCA.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[In or Out]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2015/01/14/in-or-out/"/>
+    <updated>2015-01-14T23:00:00-06:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2015/01/14/in-or-out</id>
+    <content type="html"><![CDATA[<p>WEEK 12
+below more
+Well this week I have worked very hard. I am real proud to say that I am fully capable of developing a web page. with all types of adjustment, alterations and figurations.</p>
+
+<p>I enjoy putting the pages together with the html, however, my favorite part, so far, is beautifying it with css.</p>
+
+<p>I am now learning JavaScript and I’m finding that css is just the playground, JS is the water park.
+my goal for next week is to stay focused and progress……</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[It’s About to Get Real]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2015/01/07/its-about-to-get-real/"/>
+    <updated>2015-01-07T23:00:00-06:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2015/01/07/its-about-to-get-real</id>
+    <content type="html"><![CDATA[<p>WEEK 11
+below more
+This week was an ok week. I feel like i can’t concentrate on anything else but the speech my teacher gave last night.
+Ms. A told the class that she wanted to share with us the way she felt or feels now about the class and teaching it. I thought that what was shared was very honest and straight from the heart.  <br/>
+In my opion, there was a huge message with what was shared and i got it! I really got it!
+It’s awesome when I have someone in my corner that wants the somethings for me as I want and is so passionate about it.
+After lastnight, i just really want to get this developing in the bag because if someone cane so passionate about my progress, the least I can do is keep progressing.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Break Time!!]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2014/12/03/break-time/"/>
+    <updated>2014-12-03T23:00:00-06:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2014/12/03/break-time</id>
+    <content type="html"><![CDATA[<p>WEEK 6
+below more
+Yeah!!!! Break time.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Recovery and Advancement]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2014/11/19/recovery-and-advancement/"/>
+    <updated>2014-11-19T23:00:00-06:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2014/11/19/recovery-and-advancement</id>
+    <content type="html"><![CDATA[<p>WEEK 5
+below more
+I was super excited about going back to class because there was a lot I need to catch up on, some questions needed to be asked and demos to be
+shown. Within two days I received all that and some.Had to demo my project, got that done. Wasn’t too
+bad. If I would of spent more time on it, the project would have been Great! I know that because I seem to alway take things to the next level/ extreme.</p>
+
+<p>My Goal for next week is to build up my points in code school and to be able to add image into my present project.</p>
+
+<p>Oh, by the way, I figured out a better way or should I say, understanding of the Elements ad Sections.  An Element is a part of a webpage. A typical element includes an opening tag, attributes, content, and a closing tag. A Section represents a generic section of a document. A Typical sections should contain a heading.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kettle Calling the Pot Black]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2014/11/19/kettle-calling-the-pot-black/"/>
+    <updated>2014-11-19T23:00:00-06:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2014/11/19/kettle-calling-the-pot-black</id>
+    <content type="html"><![CDATA[<p>WEEK 4
+below more
+This had to be the hardest  week ever!  We had no class because of the holidays and I was still unable to get things done due to working everyday
+both job,  except Thanksgiving.  I Was stuck for days on one of the excerises in code school, racking my brain, knowing I’m doing it right, however, the web site wasn’t excepting it. Until I was finally enlightened that the site was having problem and it required lots of refreshing.</p>
+
+<p>Other than that, I like how things are set up in our class. We have a Site where we can all communicate through. Actually, there are a couple of different sites we can communicate through as well as video chats. I knew of one or two, however, Hadn’t known their full potential, I suppose….</p>
+
+<p>I don’t know what I would have done if I wasn’t able to communicate with someone, one on one, to get help with my project. Also my instructor and coordinator has had so far a couple of colleges to come in and help out. Who by the way, are very intelligent and helpful.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Repetition and Determination]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2014/11/12/repetition-and-determination/"/>
+    <updated>2014-11-12T23:00:00-06:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2014/11/12/repetition-and-determination</id>
+    <content type="html"><![CDATA[<p>WEEK 3
+below more
+Made it through another week. This week I am proud of myself for being able to stay on track and work these exercises through code school. Im understanding whats going on with lots of the TAGS and ELEMENTS.  Also, the more simpler way things are done in HTML5 vs. HTML4.  Thank Goodness!  However I want to get more help and understanding with Sections and Elements. Next week I plan to have that down packed, meaning in the bag..</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pre Comfort and Zoning]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2014/11/05/pre-comfort-and-zoning/"/>
+    <updated>2014-11-05T23:00:00-06:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2014/11/05/pre-comfort-and-zoning</id>
+    <content type="html"><![CDATA[<p>WEEK 2
+below more
+Very  interesting working with MAC computers.  I have to practice on the Short Cut keys  since they are so different from Windows.  As well as the   Command key instead of Control key. Although I remember the Command key from the old Apple computers from Elementary and Middle school.</p>
+
+<p>My concern so far are whether or not things will get so complicated being that the course is online and there isn’t much one on one.  I really hope Annalise (Instructor) doesn’t get too tired of me because I may have a lot of silly questions……… As they say “No question is a stupid question.”  I believe thats the way it goes.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Introductory and Acquaintance]]></title>
+    <link href="http://boutbitnz.github.io/blog/blog/2014/10/30/introductory-and-acquaintance/"/>
+    <updated>2014-10-30T00:00:00-05:00</updated>
+    <id>http://boutbitnz.github.io/blog/blog/2014/10/30/introductory-and-acquaintance</id>
+    <content type="html"><![CDATA[<p>WEEK 1
+Introductory and Acquaintance
+below more
+Wow, first week was not bad at all.  The class size seems to be perfect in order to for me to get the extra help I know I’ll need.</p>
+
+<p>What surprised me the most about the class and exercises so far is that computer coding has to do with Computer Tech or Computer Software, Two computer courses I’ve taken in the past. Not even a lil bit, well not for the HTML and CSS.</p>
+]]></content>
+  </entry>
+  
+</feed>
