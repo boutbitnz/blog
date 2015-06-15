@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://boutbitnz.github.io/blog/sitemap.xml 
